@@ -16,6 +16,4 @@ Compress image with native Objective-C with faster speed.
 
   s.dependency 'Flutter'
   s.dependency 'Mantle'
-  s.dependency 'SDWebImage'
-  s.dependency 'SDWebImageWebPCoder'
 end
