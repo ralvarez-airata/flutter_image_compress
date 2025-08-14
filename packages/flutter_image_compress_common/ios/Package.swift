@@ -9,7 +9,7 @@ let package = Package(
         .library(name: "CompressImageCommon", targets: ["CompressImageCommon"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/SDWebImage/SDWebImage.git", from: "5.21.1"),
+        .package(url: "https://github.com/SDWebImage/SDWebImage.git", from: "5.1.0"),
         .package(url: "https://github.com/SDWebImage/SDWebImageWebPCoder", from: "0.3.0")
     ],
     targets: [
