@@ -10,7 +10,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/SDWebImage/SDWebImage.git", from: "5.21.1"),
-        .package(url: "https://github.com/SDWebImage/SDWebImageWebPCoder", from: "0.14.6")
+        .package(url: "https://github.com/SDWebImage/SDWebImageWebPCoder", from: "0.3.0")
     ],
     targets: [
         .target(
